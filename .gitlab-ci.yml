@@ -1,0 +1,7 @@
+stages:
+  - dev
+  - test
+  - deploy
+
+create_job:
+  stage: dev
