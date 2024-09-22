@@ -5,3 +5,5 @@ stages:
 
 create_job:
   stage: dev
+  script: 
+    - echo "createe ci/cd"
